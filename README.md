@@ -9,3 +9,6 @@ Botão "Limpar" para reiniciar os cálculos com facilidade
 
 Ideal para eletricistas, estudantes e profissionais que buscam precisão e agilidade no dimensionamento de cabos.
 
+<img width="1600" height="713" alt="image" src="https://github.com/user-attachments/assets/a578e750-b4ea-42d1-a4d7-fe6b80788c88" />
+
+
