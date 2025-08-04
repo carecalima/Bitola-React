@@ -5,8 +5,8 @@ A Calculadora de Bitola é um aplicativo desenvolvido em React Native que ajuda 
 ## Funcionalidades Principais:
 ## Cálculo automático da bitola para tensões de 110V e 220V
 
-## Utiliza fórmulas técnicas baseadas em parâmetros elétricos reais
-## Botão "Limpar" para reiniciar os cálculos com facilidade
+Utiliza fórmulas técnicas baseadas em parâmetros elétricos reais
+Botão "Limpar" para reiniciar os cálculos com facilidade
 
 Ideal para eletricistas, estudantes e profissionais que buscam precisão e agilidade no dimensionamento de cabos.
 
